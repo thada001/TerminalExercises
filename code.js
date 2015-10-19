@@ -1,1 +1,2 @@
-var a;
+var letter = "l";
+letter.toUpperCase();
